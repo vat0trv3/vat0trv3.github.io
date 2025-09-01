@@ -25,7 +25,7 @@ Produccion de video con diferentes herramientas .
 
 - ## 🌐 Prototipo en en línea
 
-👉 [Explora el portafolio](https://vat0trv3.github.io/Osc2/)
+👉 [Explora el oscilador audiovisual ](https://vat0trv3.github.io/Osc2/)
 
 ---
 
