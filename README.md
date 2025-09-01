@@ -1,14 +1,14 @@
 # VATOTRAVE
 # POWERED.by.vatt
 **AUDIO VISUAL** 
-** ^https://vat0trv3.github.io/by.vatt/** 
+** ^https://vat0trv3.github.io
 
 🎧 Composicion Musical + Produccion de Video + Experimentacion y constante Aprendizaje .
 AQUI, donde la música, visuales  y la tecnología se fusionan.  
  Este proyecto presenta una galería interactiva de experiencias audiovisuales, demos sonoras y enlaces sociales con diseño responsivo y vibrante.
 
 ## ✨ Características
-https://vat0trv3.github.io/by.vatt/
+https://vat0trv3.github.io
 - Portafolio interactivo con enfoque artístico.
 Produccion de video con diferentes herramientas .
 - Enlace directo a redes sociales (Instagram, YouTube, TikTok, Behance).
@@ -23,9 +23,9 @@ Produccion de video con diferentes herramientas .
 - TikTok: [@vatotrave](https://www.tiktok.com/@vatotrave)
 - Behance: [vatotrave](https://www.behance.net/vatotrave)
 
-- ## 🌐 Demo en línea
+- ## 🌐 Prototipo en en línea
 
-👉 [Explora el portafolio](https://vat0trv3.github.io/by.vatt/)
+👉 [Explora el portafolio](https://vat0trv3.github.io/Osc2/)
 
 ---
 
